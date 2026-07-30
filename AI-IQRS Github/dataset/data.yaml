@@ -1,0 +1,17 @@
+path: ./dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: Catheters
+  1: Griplock
+  2: Guideware
+  3: Micro-claves
+  4: needle
+  5: needle protector
+  6: ruler
+  7: scalper
+  8: syringe
+  9: tearaway
